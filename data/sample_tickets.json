@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Network Issue",
+    "status": "Open",
+    "priority": "High",
+    "assignedTo": "John Doe",
+    "createdAt": "2024-11-01",
+    "updatedAt": "2024-11-02"
+  },
+  {
+    "id": "2",
+    "title": "Software Installation",
+    "status": "Closed",
+    "priority": "Medium",
+    "assignedTo": "Jane Smith",
+    "createdAt": "2024-11-03",
+    "updatedAt": "2024-11-04"
+  }
+]
